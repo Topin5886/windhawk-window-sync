@@ -18,13 +18,19 @@
 
 Windows only resizes from one edge. Make a centered window wider and it isn't centered anymore, so you nudge it, resize again, nudge again… With this mod, hold **Alt** and drag: both sides move by the same amount, and the center stays exactly where it was. Drag a corner and it grows on all four sides. If you've used a Mac, this is the **Option-resize** your hands already know.
 
+![Hold Alt while resizing: the window grows on both sides and stays centered](docs/resize-from-center.gif)
+
 ### If you like things to match
 
 Five apps open, five slightly different sizes. **Win + Alt + S** gives every window the size of the one you're using, to the pixel. It measures the *visible* frame of each window, not the invisible resize borders Windows adds around most apps, so a Chrome window and a File Explorer window really do end up the same size. On a multi-monitor setup with different scaling (100 %, 150 %…), the size is adapted to each screen, so windows *look* the same size everywhere.
 
+![After Win + Alt + S, the calculator, the notes and the editor all have exactly the same size](docs/same-size.gif)
+
 ### If your desktop turns into a mess during the day
 
 Place one window where you want to work, press **Win + Alt + T**, and every other window comes and lines up right behind it, centered on it. Maximized windows come back to their normal size and line up too. One shortcut, and the scattered desktop is a tidy pile you can flip through with Alt+Tab.
+
+![Move a window, press Win + Alt + T, and every other window lines up behind it](docs/stack-behind.gif)
 
 ### Good for
 
