@@ -58,5 +58,5 @@
   <rect x="670" y="113" width="150" height="6" fill="#0969da"/>
   <circle cx="745" cy="158" r="3.5" fill="#0969da"/>
   <text x="745" y="252" text-anchor="middle" font-size="13" fill="#57606a">Every window lines up on its center</text>
-  <text x="745" y="270" text-anchor="middle" font-size="14" font-weight="600" fill="#0969da">Win + Alt + T</text>
+  <text x="745" y="270" text-anchor="middle" font-size="14" font-weight="600" fill="#0969da">Win + Alt + C</text>
 </svg>
